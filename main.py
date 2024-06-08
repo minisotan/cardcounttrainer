@@ -15,8 +15,8 @@ random.shuffle(cards)
 
 #Prompt that tells the player how to count cards
 print("Welcome to the Card Counting Training Bot")
-print("\n Values 2 through 6 are +1 to the count")
-print("Values 7 through 9 are 0 to the count")
+print("\n Values 2 through 6 are +1 to the count.")
+print("Values 7 through 9 are 0 to the count.")
 print("Values 10 through Ace are -1 to the count.")
 
 # Ask the user if they want to enter into simulation mode
